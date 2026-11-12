@@ -22,11 +22,11 @@ body {
 
 /* Efecto al pasar el cursor */
 .twitter-button:hover {
-    background-color: #0d8bd9; /* Oscurece el azul */
+    background-color: #0dd9c1; /* Oscurece el azul */
 }
 
 /* Efecto de selección con teclado */
 .twitter-button:focus-visible {
-    outline: 3px solid #084b78; /* Agrega un contorno visible */
+    outline: 3px solid #370286; /* Agrega un contorno visible */
     outline-offset: 3px; /* Separa el contorno del botón */
 }
