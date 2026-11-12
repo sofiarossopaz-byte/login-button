@@ -10,10 +10,10 @@ body {
 
 /* Diseño del botón de Twitter */
 .twitter-button {
-    background-color: #1da1f2; /* Establece el color azul */
+    background-color: #000000; /* Establece el color azul */
     color: #ffffff; /* Define el texto en color blanco */
     border: none; /* Elimina el borde predeterminado */
-    border-radius: 24px; /* Redondea las esquinas */
+    border-radius: 0px; /* Redondea las esquinas */
     padding: 12px 28px; /* Agrega espacio interno */
     font-size: 16px; /* Define el tamaño del texto */
     font-weight: bold; /* Coloca el texto en negrita */
